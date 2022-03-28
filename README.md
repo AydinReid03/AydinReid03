@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# Currently a student at the Univeristy of Waterloo
-# Studying Chemical Engineering 1B
-# Working on a project to find the melting point of saline solutions using an Arduino Uno
+##### Currently a student at the Univeristy of Waterloo
+##### Studying Chemical Engineering 1B
+##### Working on a project to find the melting point of saline solutions using an Arduino Uno
 <!--
 **AydinReid03/AydinReid03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
